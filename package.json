@@ -1,4 +1,5 @@
 {
+  "name": "typescript-rpc",
   "devDependencies": {
     "@types/core-decorators": "^0.20.0",
     "@types/defer-promise": "^1.0.0",
